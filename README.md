@@ -23,7 +23,7 @@ Attached below is a clear representation of the findings we discovered during ou
   - Raymon Anthony Doane with 11,606 total votes which held 3.1% of the total votes cast
 
 - The clear winner of the election is therefore Diana Degette with 272,892 votes commanding 73.8% of the total votes in the election
-![Election_results](Election_results.png)
+![Election_results](/Election_Images/Election_results.png)
 ## Election Audit Summary
 ### Modification for Future Usage
 
