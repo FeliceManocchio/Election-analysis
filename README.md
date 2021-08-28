@@ -10,7 +10,7 @@ Attached below is a clear representation of the findings we discovered during ou
 
 - There were 369,711 total votes cast in the election that took place
 - Individual county breakdown of votes are as follows
-  -
+  + 
 ### Winning Candidate Analysis
 ## Election Audit Summary
 ### Modification for Future Usage
