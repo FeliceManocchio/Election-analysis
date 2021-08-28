@@ -25,5 +25,6 @@ Attached below is a clear representation of the findings we discovered during ou
 - The clear winner of the election is therefore Diana Degette with 272,892 votes commanding 73.8% of the total votes in the election
 ![Election_results](Election_results.png)
 ## Election Audit Summary
-
 ### Modification for Future Usage
+
+The analysis ran in this module is very straight forward in analyzing voter data in a very large .csv file. The way our code is currently written as long as there is a candidate name in the "C" column and a county in the "B" column of our file we can accurately portray the above information for any candidate across various counties in any election. If we wanted to take a deeper dive into the analytics of the results or increase the scale of the analysis like say dd it on a national level we wold adjust a handful of variables in the code and it would be consistant throughout. If we wanted to expand on the national level we would just add a level of analysis finding the count and percentage of votes at the state level. To do so this we would add an additional variable referencing the state tallies then within that if statement break it down by county if we found the county talley relevant to our total analysis. In step 4a where we set our county variables we could instead set state variables for properly segregating regional tallies of the candidate voted for. 
