@@ -33,4 +33,7 @@ By doing this it will allow for the proper tally in regards to the electoral col
 ### Second Modification for Future Usage
 The second adjustment to the coding for a new election would be to just change the .csv file to current data. loading the data from a local computer and just adjusting the path appropriately would enable anyone to easily evealuate the recorded data in the .csv even in county and candidate names are different that the original file. 
 ![Election_results](/Election_Images/New_election.png)
-Our code reads file so that it is not retricted to specific nmames and titles as it pulls that information and places it into a dictionary automatically.
+
+Our code reads .csv files so that it is not retricted to specific nmames and titles as it pulls that information and places it into a dictionary automatically as shown below.
+![Election_results](/Election_Images/New_election_candidates.png)
+Overall this Python script is simple to reimplement over various elections at multiple levels of politics. It can be used on a national, state, county, or even town level. The most difficult part would be loading the file into the script with the proper pathway and file type. 
