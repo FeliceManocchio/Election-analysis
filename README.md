@@ -8,8 +8,8 @@ In this Module we set out to analyze the election results saved in a .csv file c
 
 Attached below is a clear representation of the findings we discovered during our election audit. The image depictes the following
 
--There were 369,711 total votes cast in the election that took place
--Individual county breakdown of votes are as follows
+- There were 369,711 total votes cast in the election that took place
+- Individual county breakdown of votes are as follows
   -
 ### Winning Candidate Analysis
 ## Election Audit Summary
