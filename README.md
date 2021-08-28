@@ -28,12 +28,17 @@ Attached below is a clear representation of the findings we discovered during ou
 ### First Modification for Future Usage
 
 The analysis ran in this module is very straight forward in analyzing voter data in a very large .csv file. The way our code is currently written as long as there is a candidate name in the "C" column and a county in the "B" column of our file we can accurately portray the above information for any candidate across various counties in any election. If we wanted to take a deeper dive into the analytics of the results or increase the scale of the analysis like say dd it on a national level we wold adjust a handful of variables in the code and it would be consistant throughout. If we wanted to expand on the national level we would just add a level of analysis finding the count and percentage of votes at the state level. To do so this we would add an additional variable referencing the state tallies then within that if statement break it down by county if we found the county talley relevant to our total analysis. In step 4a where we set our county variables(below) we could instead set state variables for properly segregating regional tallies of the candidate voted for. 
+
 ![Election_results](/Election_Images/Election_results(nat).png)
+
 By doing this it will allow for the proper tally in regards to the electoral college that is more reliant on a regional(state) break down than accumulated popular vote. 
 ### Second Modification for Future Usage
 The second adjustment to the coding for a new election would be to just change the .csv file to current data. loading the data from a local computer and just adjusting the path appropriately would enable anyone to easily evealuate the recorded data in the .csv even in county and candidate names are different that the original file. 
+
 ![Election_results](/Election_Images/New_election.png)
 
 Our code reads .csv files so that it is not retricted to specific nmames and titles as it pulls that information and places it into a dictionary automatically as shown below.
+
 ![Election_results](/Election_Images/New_election_candidates.png)
+
 Overall this Python script is simple to reimplement over various elections at multiple levels of politics. It can be used on a national, state, county, or even town level. The most difficult part would be loading the file into the script with the proper pathway and file type. 
