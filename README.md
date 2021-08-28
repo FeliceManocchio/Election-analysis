@@ -24,7 +24,7 @@ Attached below is a clear representation of the findings we discovered during ou
 
 - The clear winner of the election is therefore Diana Degette with 272,892 votes commanding 73.8% of the total votes in the election
 
-![Election_results](/images/Election_results.png)
+![Election_results](Election_results.png)
 
 ## Election Audit Summary
 
