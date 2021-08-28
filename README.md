@@ -10,7 +10,10 @@ Attached below is a clear representation of the findings we discovered during ou
 
 - There were 369,711 total votes cast in the election that took place
 - Individual county breakdown of votes are as follows
-  + 
+  - Jefferson had 38,855 total votes which held 10.5% of the total votes cast in this analysis
+  - Denver had 306,055 total votes which held 82.8% of the total votes cast in this analysis
+  - Arapahoe had 24,801 total votes cast which held 6.7% of the total votes cast in this analysis
+   
 ### Winning Candidate Analysis
 ## Election Audit Summary
 ### Modification for Future Usage
